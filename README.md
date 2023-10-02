@@ -2,14 +2,13 @@
 
 ### For this Tiktok Clone to work you'll need the API/Backend:
 
-Tiktok Clone API: https://github.com/John-Weeks-Dev/tiktok-clone-api
+Tiktok Clone API: https://github.com/MouadJaid/TikTok-Backend-API
 
 ## App Setup
 
 ```
-git clone https://github.com/John-Weeks-Dev/tiktok-clone.git
 
-npm i
+npm install 
 
 npm run dev
 ```
